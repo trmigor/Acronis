@@ -1,0 +1,25 @@
+# IDE dettings
+.vscode/
+.idea/
+
+# OS X system files
+.DS_Store
+
+# Binary files
+*.o
+*.out
+*.elf
+
+# Kernel modules and helping files
+.cache.mk
+modules.order
+Module.symvers
+*.ko
+.*.ko.cmd
+*.mod
+*.mod.c
+.*.mod.cmd
+*.mod.o
+.*.mod.o.cmd
+.*.o.cmd
+.tmp_versions/
